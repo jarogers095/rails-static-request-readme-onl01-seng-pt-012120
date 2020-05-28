@@ -856,3 +856,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 68.225.250.179 at 2020-05-28 03:53:20 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.4ms)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
